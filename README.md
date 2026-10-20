@@ -12,9 +12,9 @@ A mobile robotics project combining line following, a two servo pick and place m
 <tr><th>File or folder</th><th>Purpose</th></tr>
 <tr><td><a href="to_left.ino">to_left.ino</a></td><td>Root ESP32 navigation and task sequence</td></tr>
 <tr><td><a href="nano.ino">nano.ino</a></td><td>Arduino servo and colour sensing controller</td></tr>
-<tr><td><a href="MSD/final%20MSD">MSD/final MSD</a></td><td>Integrated firmware variants and experiments</td></tr>
-<tr><td><a href="MSD/color%20tcs">MSD/color tcs</a></td><td>TCS3200 and serial communication tests</td></tr>
-<tr><td><a href="MSD/serial%20com">MSD/serial com</a></td><td>Controller communication experiments</td></tr>
+<tr><td><a href="https://github.com/Kaveesha229/KDU%2DMSD%2DLine%2Dfollowing%2Drobot%2Dwith%2Dpick%2Dand%2Dplace%2Dusing%2Dcolor%2Dsensor%2Dand%2Dimage%2Dprocessing/tree/main/MSD/final%20MSD">MSD/final MSD</a></td><td>Integrated firmware variants and experiments</td></tr>
+<tr><td><a href="https://github.com/Kaveesha229/KDU%2DMSD%2DLine%2Dfollowing%2Drobot%2Dwith%2Dpick%2Dand%2Dplace%2Dusing%2Dcolor%2Dsensor%2Dand%2Dimage%2Dprocessing/tree/main/MSD/color%20tcs">MSD/color tcs</a></td><td>TCS3200 and serial communication tests</td></tr>
+<tr><td><a href="https://github.com/Kaveesha229/KDU%2DMSD%2DLine%2Dfollowing%2Drobot%2Dwith%2Dpick%2Dand%2Dplace%2Dusing%2Dcolor%2Dsensor%2Dand%2Dimage%2Dprocessing/tree/main/MSD/serial%20com">MSD/serial com</a></td><td>Controller communication experiments</td></tr>
 <tr><td><a href="MSD%20Report.pdf">MSD Report.pdf</a></td><td>Project report</td></tr>
 </table>
 
